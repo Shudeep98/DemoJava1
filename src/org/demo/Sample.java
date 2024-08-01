@@ -7,5 +7,11 @@ public class Sample {
 		System.out.println("Project demo");
 		
 	}
+	
+	private void addToCart() {
+	
+		System.out.println("Add to cart code is added by amarnath");
+
+	}
 
 }
